@@ -1,3 +1,7 @@
+= RoR Tutorial Sample App
+
+This is the sample app for teh tutorial by Michael Hartl.
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
